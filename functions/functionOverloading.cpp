@@ -5,7 +5,7 @@ int add(int x, int y) {
     return x+y;
 }
 
-float add(double x, double y) {
+double add(double x, double y) {
     return x+y;
 }
 

@@ -20,7 +20,8 @@ int main() {
     cout << "The Value of B: "<< b << endl;
     cout << "The Address of B: "<< &b << endl; 
 
-    returnValue(a) = 20;
+    // returnValue(a) = 20;
+    b=20;
       
     cout << "The Value of A: " << a << endl;
     cout << "The Address of A: " << &a; 
